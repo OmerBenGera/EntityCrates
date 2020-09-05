@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EntityCrates">
+    <output-path>$PROJECT_DIR$/../../../My Servers/Testing 1.16/plugins</output-path>
+    <root id="archive" name="EntityCrates.jar">
+      <element id="module-output" name="EntityCrates" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

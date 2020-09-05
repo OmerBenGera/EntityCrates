@@ -1,0 +1,8 @@
+name: EntityCrates
+version: 1.0
+main: com.ome_r.EntityCrates
+commands:
+  crateslist:
+    description: Shows the list of the crates
+    permission: entitycrates.list
+    permission-message: Unknown command. Type "/help" for help.

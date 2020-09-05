@@ -1,0 +1,17 @@
+#Interval time between saves in seconds
+save-interval: 600
+
+title-custom-names:
+  #Should custom names will be displayed in the backpack's title (inventory's title)?
+  enabled: true
+
+  #Should custom names will be colored?
+  color-codes: true
+
+armor-stand:
+  #Should crates (armorstands) have visible names with the time remaining until they despawn?
+  timer-name: true
+  
+#Crates will be spawned only for entities from this list
+entites-list:
+  - PLAYER
